@@ -26,6 +26,8 @@ en:
     placeholder_name: "Leave blank to use product name"
     placeholder_link_url: "Leave blank to use product url"
     image_tip: "Default first product image"
+    image_must_be_present: Image must be present
+    image_invalid_content_type: Content type of image is invalid
 
   spree_slider_locations:
     config_name: "Spree Slider Locations"
